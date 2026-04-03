@@ -8,6 +8,7 @@ class SpringJenkinsDockerApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Tset class");
 	}
 
 }
